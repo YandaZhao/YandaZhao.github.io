@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: '赵延达的个人博客'
-description: 'iOS开发者/前端工程师/伪极客 热爱技术&一切美好事物 很高兴能在这里与你分享我对生活和技术的思考.'
+description: 'iOS开发者/前端工程师/伪极客, 热爱技术&一切美好事物, 很高兴能在这里与你分享我对生活和技术的思考.'
 keyword: '赵延达, 赵延达的博客, 赵延达的个人博客, zhaoyanda, iOS开发, avfoundation, swift, iOS, www.zhaoyanda.com'
 url: '' # your host
 
@@ -17,9 +17,9 @@ footer:
   since: 2017
 
 # Author 配置博主信息
-author: '赵延达'
+author: '赵延达  Eloy'
 nickname: 'Eloy'
-bio: 'iOS开发者/前端工程师, 热爱技术和一切美好事物, 积极乐观爱思考'
+bio: 'iOS开发者/前端工程师<br />热爱技术和一切美好事物<br />积极乐观爱思考'
 avatar: '/assets/img/avatar.jpg'
 
 # Search
